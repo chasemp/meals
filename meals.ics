@@ -4,13 +4,4 @@ PRODID:-//arecipe//meal-plan//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:arecipe meals
-BEGIN:VEVENT
-UID:22969784-68ef-4265-8ff3-b699e0a55ea9-20260726@arecipe.app
-DTSTAMP:20260720T213030Z
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:Dinner: Cooking a Burrito Bowl for 2 for $12
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcfw37mzx2h
-END:VEVENT
 END:VCALENDAR
