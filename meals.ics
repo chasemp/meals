@@ -5,109 +5,37 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:arecipe meals
 BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260715@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-SUMMARY:Dessert: Peanut Butter No-Bake Cookies
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptsnwg2s
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260716@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:Dessert: Lemon Ricotta Cookies
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptlvi525
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260717@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Dessert: Malasadas
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptbrac2h
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260722@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:Dessert: Peanut Butter No-Bake Cookies
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptsnwg2s
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260723@arecipe.app
-DTSTAMP:20260714T004821Z
+UID:264aa258-4a69-4580-9051-eed8877ff271-20260723@arecipe.app
+DTSTAMP:20260720T212714Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-SUMMARY:Dessert: Lemon Ricotta Cookies
+SUMMARY:Dessert: Elvis Moon Pie
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptlvi525
+ qp2r2xvp/exchange.recipe.recipe/3mqcyptf3y72f
 END:VEVENT
 BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260724@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-SUMMARY:Dessert: Malasadas
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptbrac2h
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260729@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
+UID:264aa258-4a69-4580-9051-eed8877ff271-20260725@arecipe.app
+DTSTAMP:20260720T212714Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
 SUMMARY:Dessert: Peanut Butter No-Bake Cookies
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcyptsnwg2s
 END:VEVENT
 BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260730@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:Dessert: Lemon Ricotta Cookies
+UID:22969784-68ef-4265-8ff3-b699e0a55ea9-20260726@arecipe.app
+DTSTAMP:20260720T212714Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Dinner: Cooking a Burrito Bowl for 2 for $12
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptlvi525
+ qp2r2xvp/exchange.recipe.recipe/3mqcfw37mzx2h
 END:VEVENT
 BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260731@arecipe.app
-DTSTAMP:20260714T004821Z
+UID:264aa258-4a69-4580-9051-eed8877ff271-20260731@arecipe.app
+DTSTAMP:20260720T212714Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-SUMMARY:Dessert: Malasadas
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptbrac2h
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260805@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:Dessert: Peanut Butter No-Bake Cookies
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptsnwg2s
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260806@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-SUMMARY:Dessert: Lemon Ricotta Cookies
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptlvi525
-END:VEVENT
-BEGIN:VEVENT
-UID:0ad10d6d-b2fa-44dc-b2b2-529fd0b59155-20260807@arecipe.app
-DTSTAMP:20260714T004821Z
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
 SUMMARY:Dessert: Malasadas
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcyptbrac2h
