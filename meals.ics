@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:arecipe meals
 BEGIN:VEVENT
 UID:60efee91-5049-4681-9456-42fe1bb92e82-20260723@arecipe.app
-DTSTAMP:20260720T213532Z
+DTSTAMP:20260720T215039Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Dressing: Tartar Sauce
@@ -15,7 +15,7 @@ DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
 END:VEVENT
 BEGIN:VEVENT
 UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260723@arecipe.app
-DTSTAMP:20260720T213532Z
+DTSTAMP:20260720T215039Z
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Dessert: Pistachio Salad
@@ -24,7 +24,7 @@ DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
 END:VEVENT
 BEGIN:VEVENT
 UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260725@arecipe.app
-DTSTAMP:20260720T213532Z
+DTSTAMP:20260720T215039Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Dessert: Apple Pie
@@ -32,8 +32,28 @@ DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcct3rqs226
 END:VEVENT
 BEGIN:VEVENT
+UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260727@arecipe.app
+DTSTAMP:20260720T215039Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Dressing: Tartar Sauce\, Dessert: Strawberry Shortcake
+DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
+ qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c\nhttps://arecipe.app/recipe.
+ html?u=at://did:plc:spfl4xaktvvchr2cqp2r2xvp/exchange.recipe.recipe/3mqcyp
+ tw7e224
+END:VEVENT
+BEGIN:VEVENT
+UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260728@arecipe.app
+DTSTAMP:20260720T215039Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Breakfast: Brioche French Toast
+DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
+ qp2r2xvp/exchange.recipe.recipe/3mqcypu4tr722
+END:VEVENT
+BEGIN:VEVENT
 UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260730@arecipe.app
-DTSTAMP:20260720T213532Z
+DTSTAMP:20260720T215039Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Dessert: Pistachio Salad
@@ -42,11 +62,31 @@ DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
 END:VEVENT
 BEGIN:VEVENT
 UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260801@arecipe.app
-DTSTAMP:20260720T213532Z
+DTSTAMP:20260720T215039Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Dinner: Cooking a Burrito Bowl for 2 for $12
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcfw37mzx2h
+END:VEVENT
+BEGIN:VEVENT
+UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260803@arecipe.app
+DTSTAMP:20260720T215039Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Dressing: Tartar Sauce\, Dessert: Strawberry Shortcake
+DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
+ qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c\nhttps://arecipe.app/recipe.
+ html?u=at://did:plc:spfl4xaktvvchr2cqp2r2xvp/exchange.recipe.recipe/3mqcyp
+ tw7e224
+END:VEVENT
+BEGIN:VEVENT
+UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260804@arecipe.app
+DTSTAMP:20260720T215039Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Breakfast: Brioche French Toast
+DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
+ qp2r2xvp/exchange.recipe.recipe/3mqcypu4tr722
 END:VEVENT
 END:VCALENDAR
