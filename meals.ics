@@ -5,106 +5,39 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:arecipe meals
 BEGIN:VEVENT
-UID:ab57b2d9-4f9b-423e-b177-0acaf79cb56e-20260709@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:Dinner: Lemon-Thyme Chicken Thighs
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyprei5h2o
-END:VEVENT
-BEGIN:VEVENT
-UID:90e6f7a1-7e2d-44be-9bdb-da53b1867b1c-20260722@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:Dessert: Malasadas
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcyptbrac2h
-END:VEVENT
-BEGIN:VEVENT
-UID:60efee91-5049-4681-9456-42fe1bb92e82-20260723@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:Dressing: Tartar Sauce
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c
-END:VEVENT
-BEGIN:VEVENT
-UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260723@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:Dessert: Pistachio Salad
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqccqvsz472k
-END:VEVENT
-BEGIN:VEVENT
-UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260725@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
+UID:88a4f7b3-5d0e-4633-b895-d42bae4b16ee-20260730@arecipe.app
+DTSTAMP:20260808T230106Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
 SUMMARY:Dessert: Apple Pie
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcct3rqs226
 END:VEVENT
 BEGIN:VEVENT
-UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260727@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260728
-SUMMARY:Dressing: Tartar Sauce\, Dessert: Strawberry Shortcake
+UID:88a4f7b3-5d0e-4633-b895-d42bae4b16ee-20260802@arecipe.app
+DTSTAMP:20260808T230106Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Dressing: Tartar Sauce
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c\nhttps://arecipe.app/recipe.
- html?u=at://did:plc:spfl4xaktvvchr2cqp2r2xvp/exchange.recipe.recipe/3mqcyp
- tw7e224
+ qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c
 END:VEVENT
 BEGIN:VEVENT
-UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260728@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-SUMMARY:Breakfast: Brioche French Toast
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcypu4tr722
-END:VEVENT
-BEGIN:VEVENT
-UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260730@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:Dessert: Pistachio Salad
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqccqvsz472k
-END:VEVENT
-BEGIN:VEVENT
-UID:d1aba91e-d2a3-4209-81f5-dc1c0b6f8e0c-20260801@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
+UID:9fa6a5d8-e448-4550-98af-9ff2cb2948d9-20260813@arecipe.app
+DTSTAMP:20260808T230106Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
 SUMMARY:Dinner: Cooking a Burrito Bowl for 2 for $12
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcfw37mzx2h
 END:VEVENT
 BEGIN:VEVENT
-UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260803@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-SUMMARY:Dressing: Tartar Sauce\, Dessert: Strawberry Shortcake
+UID:9fa6a5d8-e448-4550-98af-9ff2cb2948d9-20260816@arecipe.app
+DTSTAMP:20260808T230106Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Dressing: Tartar Sauce
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c\nhttps://arecipe.app/recipe.
- html?u=at://did:plc:spfl4xaktvvchr2cqp2r2xvp/exchange.recipe.recipe/3mqcyp
- tw7e224
-END:VEVENT
-BEGIN:VEVENT
-UID:3872b33c-2de9-4519-bec2-10e0c6b3bac6-20260804@arecipe.app
-DTSTAMP:20260720T215802Z
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:Breakfast: Brioche French Toast
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcypu4tr722
+ qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c
 END:VEVENT
 END:VCALENDAR
