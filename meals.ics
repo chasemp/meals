@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:arecipe meals
 BEGIN:VEVENT
 UID:88a4f7b3-5d0e-4633-b895-d42bae4b16ee-20260730@arecipe.app
-DTSTAMP:20260808T230106Z
+DTSTAMP:20260808T230108Z
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
 SUMMARY:Dessert: Apple Pie
@@ -15,27 +15,9 @@ DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
 END:VEVENT
 BEGIN:VEVENT
 UID:88a4f7b3-5d0e-4633-b895-d42bae4b16ee-20260802@arecipe.app
-DTSTAMP:20260808T230106Z
+DTSTAMP:20260808T230108Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
-SUMMARY:Dressing: Tartar Sauce
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c
-END:VEVENT
-BEGIN:VEVENT
-UID:9fa6a5d8-e448-4550-98af-9ff2cb2948d9-20260813@arecipe.app
-DTSTAMP:20260808T230106Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Dinner: Cooking a Burrito Bowl for 2 for $12
-DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
- qp2r2xvp/exchange.recipe.recipe/3mqcfw37mzx2h
-END:VEVENT
-BEGIN:VEVENT
-UID:9fa6a5d8-e448-4550-98af-9ff2cb2948d9-20260816@arecipe.app
-DTSTAMP:20260808T230106Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
 SUMMARY:Dressing: Tartar Sauce
 DESCRIPTION:https://arecipe.app/recipe.html?u=at://did:plc:spfl4xaktvvchr2c
  qp2r2xvp/exchange.recipe.recipe/3mqcdv6dxx22c
